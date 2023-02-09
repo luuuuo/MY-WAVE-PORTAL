@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+.idea/misc.xml
+.idea/modules.xml
+.idea/my-wave-portal.iml
